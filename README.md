@@ -1,10 +1,11 @@
-# 🧠 Million-Eyes Project  
-### *A Multi-Agent AI System for Cognitive Surveillance Intelligence*  
-**Developed by Mindverse Computing**
+# Agentome Coding Stack
+
+### *A Multi-Agent AI System for coding Cognitive Surveillance Intelligence (Million Eyes)*  
+
 
 ---
 
-## 🌐 Overview
+##  Overview
 
 The **Million-Eyes Project** is a Megha-scale AI initiative to develop an **intelligent surveillance connectome**—a hierarchical, recursive network of AI agents that collectively simulate perception, memory, reasoning, and system-level awareness.
 
@@ -14,7 +15,7 @@ This repository contains the auto-generated codebase, agent instructions, prompt
 
 ---
 
-## 🧱 Multi-Agent Development Stack
+##  Multi-Agent Development Stack
 
 | Layer | Agent Role | Responsibility |
 |-------|------------|----------------|
@@ -27,7 +28,7 @@ This repository contains the auto-generated codebase, agent instructions, prompt
 
 ---
 
-## 🔁 Recursive Feedback & Shared Memory
+## Recursive Feedback & Shared Memory
 
 All agents log to a shared vector database (e.g., ChromaDB), allowing:
 - Prompt → Code → Test traceability
@@ -36,7 +37,7 @@ All agents log to a shared vector database (e.g., ChromaDB), allowing:
 
 ---
 
-## 🧠 Intelligence Stack: Surveillance System Roles
+## Intelligence Stack: Surveillance System Roles
 
 | Layer | Agent Type | Function |
 |-------|------------|----------|
@@ -48,7 +49,7 @@ All agents log to a shared vector database (e.g., ChromaDB), allowing:
 
 ---
 
-## 🔄 Workflow Diagram (Mermaid)
+## Workflow Diagram (Mermaid)
 
 ```mermaid
 graph TD
@@ -93,7 +94,7 @@ N2 --> I2
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 million-eyes/
@@ -132,7 +133,7 @@ million-eyes/
 
 ---
 
-## ⚙️ Tooling & Stack
+## Tooling & Stack
 
 | Purpose                | Tool                              |
 | ---------------------- | --------------------------------- |
@@ -144,7 +145,7 @@ million-eyes/
 
 ---
 
-## 🚀 Contributing
+## Contributing
 
 This project is fully AI-generated, but **human reviewers, vision refiners, and systems architects** are welcome to collaborate by:
 
@@ -160,7 +161,7 @@ Then follow the logs in `/memory` to understand system evolution.
 
 ---
 
-## 📌 Summary
+## Summary
 
 The **Million-Eyes Project** is not just another surveillance platform.
 It is a demonstration of **autonomous, recursive software architecture**—designed and developed by AI agents that understand vision, structure code, simulate modules, and refine themselves iteratively.
